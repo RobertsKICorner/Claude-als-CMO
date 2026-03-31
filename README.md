@@ -79,7 +79,7 @@ Skill-Ordner ins Claude Code Skills-Verzeichnis legen:
 Repository klonen und alle 11 Skills installieren:
 
 ```
-git clone https://github.com/hartmut-ux/ai-marketing-team.git
+git clone  https://github.com/RobertsKICorner/Claude-als-CMO.git
 ```
 
 ---
